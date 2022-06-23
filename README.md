@@ -1,6 +1,3 @@
-# surfs_up
- 
-
 # UofM-Data-Viz-Analytics-Boot-Camp
 # Ron Hankey - University of Minnesota Data Visualization and Analytics Boot Camp
 #                   Assignment: Challenge 9 - surfs_up
@@ -16,6 +13,8 @@ This was a fun project to get the temperature data for the months of June and De
 * [Atomic:] Deliverable 1: Determine the Summary Statistics for June
 * [Atomic:] Determine the Summary Statistics for December
 * [Atomic:] A written report for the statistical analysis (README.md)
+* [Atomic:] The June temperatures were calculated and are showm here: https://github.com/lykkelig/surfs_up/blob/main/June_Temps.png
+* [Atomic:] The December temperatures were calculated and are showm here: https://github.com/lykkelig/surfs_up/blob/main/Dec_Temps.png
 
 ## Summary  Challenge Result
-* [Atomic:] 
+* [Atomic:] The mean temperature in June is 74.9 degrees and 71 degress in December. Though slightly lower in December, it is still very comfortable weather and a postive for a surf and ice cream shop. 
